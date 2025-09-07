@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useOutletContext } from 'react-router-dom';
 import type { Age, Translation, LanguageCode, AdditionalInfo } from '../types';
 import { LanguageCode as LangEnum } from '../types';
-import { calculateAge, hijriToGregorian, getSeason, calculateNextBirthdayCountdown } from '../lib/utils';
+import { calculateAge, hijriToGregorian, solarHijriToGregorian, getSeason, calculateNextBirthdayCountdown } from '../lib/utils';
 import AgeCalculatorForm from '../components/AgeCalculatorForm';
 import AgeResult from '../components/AgeResult';
 import CalendarSelector from '../components/CalendarSelector';
@@ -53,8 +53,12 @@ const AgeCalculatorPage: React.FC = () => {
 
     let birthDateObj: Date;
 
-    if (calendar === 'hijri' && currentLang === LangEnum.AR) {
-        birthDateObj = hijriToGregorian(parseInt(year), parseInt(month), parseInt(day));
+    if (calendar === 'hijri') {
+        if (currentLang === LangEnum.FA) {
+             birthDateObj = solarHijriToGregorian(parseInt(year), parseInt(month), parseInt(day));
+        } else { // Default to lunar Hijri for AR and any other case
+            birthDateObj = hijriToGregorian(parseInt(year), parseInt(month), parseInt(day));
+        }
     } else {
         const birthDateStr = `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
         birthDateObj = new Date(birthDateStr);
@@ -113,7 +117,7 @@ const AgeCalculatorPage: React.FC = () => {
         {/* Main Calculator Card */}
         <section className="bg-white dark:bg-gray-800 rounded-2xl shadow-2xl p-6 md:p-8 transition-all duration-300">
             <h2 className="text-center text-xl md:text-2xl font-semibold text-gray-700 dark:text-gray-300 mb-6">{t.h2}</h2>
-            {currentLang === LangEnum.AR && (
+            {['ar', 'fa'].includes(currentLang) && (
               <CalendarSelector 
                 currentCalendar={calendar}
                 onCalendarChange={handleCalendarChange}

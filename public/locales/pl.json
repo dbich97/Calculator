@@ -1,4 +1,3 @@
-
 {
   "title": "Kalkulator",
   "selectLanguage": "Wybierz język",
@@ -55,7 +54,29 @@
   "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Dżumada al-ula", "Dżumada al-akhira", "Radżab", "Szaban", "Ramadan", "Szawwal", "Zulkada", "Zulhidżdża"],
   "daysOfWeekArray": ["Niedziela", "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota"],
   "seasonsArray": ["Zima", "Wiosna", "Lato", "Jesień"],
-  "seoSections": [],
+  "seoSections": [
+    {
+      "heading": "Jak działa nasz kalkulator wieku",
+      "paragraphs": [
+        "Nasz Kalkulator Wieku oblicza Twój wiek z dużą precyzją, porównując Twoją datę urodzenia z aktualną datą. Narzędzie oblicza całkowity czas, jaki upłynął, i dzieli go na lata, miesiące i dni. Uwzględnia lata przestępne, aby zapewnić dokładny wynik, co czyni go niezawodnym narzędziem dla każdego, kto zadaje sobie pytanie 'ile mam lat?'. Wystarczy wpisać datę urodzenia, a kalkulator natychmiast wyświetli Twój wiek chronologiczny."
+      ]
+    },
+    {
+      "heading": "Dlaczego warto korzystać z kalkulatora wieku online?",
+      "paragraphs": [
+        "Chociaż obliczenie wieku w latach jest proste, znalezienie dokładnej liczby miesięcy i dni może być trudne. Kalkulator wieku online upraszcza ten proces, dostarczając natychmiastowe i dokładne wyniki. Jest przydatny do:",
+        "Wypełniania formularzy i wniosków wymagających podania dokładnego wieku.",
+        "Planowania uroczystości urodzinowych i ważnych wydarzeń.",
+        "Badań genealogicznych i tworzenia osi czasu rodziny.",
+        "Zaspokojenia ciekawości dotyczącej Twojego wieku w szczegółach."
+      ],
+      "list": [
+        "Dokładność: Eliminuje błędy w ręcznych obliczeniach, zwłaszcza w przypadku lat przestępnych.",
+        "Szybkość: Uzyskaj swój wiek w kilka sekund.",
+        "Wygoda: Dostępny w każdej chwili, w każdym miejscu, na każdym urządzeniu."
+      ]
+    }
+  ],
   "shareTitle": "Udostępnij ten Kalkulator",
   "copyLinkButton": "Kopiuj Link",
   "copiedTooltip": "Skopiowano!",
@@ -63,7 +84,7 @@
   "aboutHeading": "Nasza Misja",
   "aboutContent": [
     "Witamy w Kalkulatorze, Twoim miejscu docelowym dla szerokiej gamy darmowych i łatwych w użyciu kalkulatorów online. Naszą misją jest dostarczanie prostych, szybkich i niezawodnych narzędzi, które ułatwiają codzienne obliczenia dla każdego.",
-    "Zaczęliśmy od prostego Kalkulatora Wieku, a od tego czasu rozszerzyliśmy naszą ofertę o różne kalkulatory zdrowotne i ogólnego przeznaczenia. Wierzymy w udostępnianie informacji i przetłumaczyliśmy nasze narzędzia на wiele języków, aby służyć globalnej publiczności.",
+    "Zaczęliśmy od prostego Kalkulatora Wieku, a od tego czasu rozszerzyliśmy naszą ofertę o różne kalkulatory zdrowotne i ogólnego przeznaczenia. Wierzymy w udostępnianie informacji i przetłumaczyliśmy nasze narzędzia na wiele języków, aby służyć globalnej publiczności.",
     "Nasz zespół jest oddany dokładności i doświadczeniu użytkownika. Nieustannie pracujemy nad ulepszaniem naszych istniejących narzędzi i opracowywaniem nowych, aby sprostać Twoim potrzebom. Dziękujemy za wybranie Kalkulatora!"
   ],
   "privacyTitle": "Polityka Prywatności",
@@ -71,7 +92,7 @@
   "privacyContent": [
     {
       "heading": "1. Informacje, które zbieramy",
-      "paragraphs": ["Nie zbieramy ani nie przechowujemy żadnych danych osobowych wprowadzanych do naszych kalkulatorów. Wszystkie obliczenia są wykonywane bezpośrednio w Twojej przeglądarce i nie są wysyłane на nasze serwery. Twoja data urodzenia ani żadne inne informacje nigdy nie są zapisywane."]
+      "paragraphs": ["Nie zbieramy ani nie przechowujemy żadnych danych osobowych wprowadzanych do naszych kalkulatorów. Wszystkie obliczenia są wykonywane bezpośrednio w Twojej przeglądarce i nie są wysyłane na nasze serwery. Twoja data urodzenia ani żadne inne informacje nigdy nie są zapisywane."]
     },
     {
       "heading": "2. Ciasteczka i analityka",
@@ -79,7 +100,7 @@
     },
     {
       "heading": "3. Usługi stron trzecich",
-      "paragraphs": ["Ta strona internetowa не integruje się z żadnymi usługami stron trzecich, które mogłyby naruszyć Twoją prywatność. Nie udostępniamy żadnych danych stronom trzecim."]
+      "paragraphs": ["Ta strona internetowa nie integruje się z żadnymi usługami stron trzecich, które mogłyby naruszyć Twoją prywatność. Nie udostępniamy żadnych danych stronom trzecim."]
     }
   ],
   "contactTitle": "Kontakt",
@@ -108,7 +129,27 @@
   "trimester1": "Pierwszy Trymestr",
   "trimester2": "Drugi Trymestr",
   "trimester3": "Trzeci Trymestr",
-  "seoPregnancySections": [],
+  "seoPregnancySections": [
+    {
+      "heading": "Jak działa nasz kalkulator terminu porodu",
+      "paragraphs": [
+        "Nasz Kalkulator Terminu Porodu szacuje przewidywaną datę porodu, korzystając z kilku metod. Najpopularniejsza metoda opiera się na pierwszym dniu ostatniej miesiączki (OM). To podejście, znane jako reguła Naegelego, dodaje 280 dni (40 tygodni) do daty OM, aby przewidzieć termin porodu. Oferujemy również obliczenia oparte na dacie poczęcia lub dacie transferu zarodka w ramach procedury IVF, co zapewnia większą dokładność, zwłaszcza jeśli masz nieregularne cykle lub znasz dokładną datę poczęcia.",
+        "Ważne jest, aby pamiętać, że ta data jest szacunkowa. Tylko około 5% dzieci rodzi się dokładnie w przewidywanym terminie. To narzędzie stanowi wiarygodną wskazówkę, która pomoże Tobie i Twojemu lekarzowi zaplanować przyjście na świat dziecka."
+      ],
+      "list": [
+        "Metoda OM: Standardowe obliczenie oparte na 28-dniowym cyklu.",
+        "Metoda daty poczęcia: Dokładniejsza, jeśli znasz dokładną datę poczęcia.",
+        "Metoda IVF: Dostosowana do ciąż po IVF, oparta na dacie transferu zarodka i jego wieku."
+      ]
+    },
+    {
+      "heading": "Zrozumienie osi czasu ciąży: trymestry i kamienie milowe",
+      "paragraphs": [
+        "Ciąża donoszona dzieli się na trzy trymestry, z których każdy ma unikalne etapy rozwoju płodu. Nasz kalkulator nie tylko podaje termin porodu, ale także pomaga zrozumieć, na jakim etapie tej podróży się znajdujesz, obliczając obecny wiek ciążowy.",
+        "Pierwszy trymestr (tygodnie 1-13) to kluczowy okres rozwoju narządów dziecka. Drugi trymestr (tygodnie 14-27) często nazywany jest 'złotym okresem', ponieważ wiele wczesnych objawów ciąży ustępuje, a Ty możesz zacząć czuć ruchy dziecka. Trzeci trymestr (tygodnie 28-40+) skupia się na szybkim wzroście i przybieraniu na wadze dziecka, które przygotowuje się do narodzin. Regularna opieka prenatalna na wszystkich tych etapach jest niezbędna dla zdrowej ciąży."
+      ]
+    }
+  ],
   "seoOvulationTitle": "Darmowy Kalkulator Owulacji i Okna Płodności",
   "seoOvulationDescription": "Oszacuj datę owulacji i najbardziej płodne dni na podstawie ostatniej miesiączki i długości cyklu. Zaplanuj ciążę z naszym dokładnym kalkulatorem.",
   "ovulationTitle": "Kalkulator Owulacji",
@@ -121,7 +162,29 @@
   "resultFertileWindow": "Najbardziej Płodne Okno",
   "fertileWindowDescription": "Od {startDate} do {endDate}",
   "resultNextPeriod": "Przewidywana Data Następnej Miesiączki",
-  "seoOvulationSections": [],
+  "seoOvulationSections": [
+    {
+      "heading": "Jak przewidzieć swoje najbardziej płodne dni",
+      "paragraphs": [
+        "Nasz Kalkulator Owulacji to proste narzędzie zaprojektowane, aby pomóc Ci przewidzieć najbardziej płodne dni w miesiącu. Wprowadzając pierwszy dzień ostatniej miesiączki i średnią długość cyklu, kalkulator szacuje prawdopodobną datę owulacji. Owulacja to uwolnienie komórki jajowej z jajnika, co zwykle ma miejsce około 14 dni przed rozpoczęciem następnej miesiączki.",
+        "Twoje 'okno płodności' obejmuje dzień owulacji i pięć dni poprzedzających go. Dzieje się tak, ponieważ plemniki mogą przetrwać w drogach rodnych kobiety do pięciu dni. Odbycie stosunku w tym okresie znacznie zwiększa szanse na poczęcie."
+      ],
+      "list": [
+        "Wprowadź swoje dane: Zacznij od daty ostatniej miesiączki i długości cyklu.",
+        "Uzyskaj szacunek: Kalkulator określi Twoje kluczowe dni płodne.",
+        "Planuj odpowiednio: Wykorzystaj te informacje, aby pomóc w realizacji swoich celów związanych z planowaniem rodziny."
+      ]
+    },
+    {
+      "heading": "Poza kalkulatorem: inne oznaki owulacji",
+      "paragraphs": [
+        "Chociaż kalkulator owulacji jest świetnym punktem wyjścia, Twoje ciało również dostarcza wskazówek, że zbliża się owulacja. Połączenie szacunków kalkulatora z tymi fizycznymi objawami może dać Ci dokładniejszy obraz Twojego okna płodności. Do tych objawów należą:",
+        "Zmiany w śluzie szyjkowym: W miarę zbliżania się do owulacji, śluz szyjkowy może stać się bardziej przezroczysty, rzadszy i bardziej śliski, przypominając konsystencję białka jaja.",
+        "Podstawowa temperatura ciała (BBT): Codzienne śledzenie BBT może wykazać niewielki, ale trwały wzrost temperatury po wystąpieniu owulacji.",
+        "Testy owulacyjne (LH): Te dostępne bez recepty testy wykrywają gwałtowny wzrost hormonu luteinizującego (LH), który ma miejsce 24-36 godzin przed owulacją."
+      ]
+    }
+  ],
   "seoMenstrualTitle": "Kalkulator Cyklu Miesiączkowego i Okresu",
   "seoMenstrualDescription": "Śledź swój cykl miesiączkowy i przewiduj daty następnego okresu za pomocą naszego prostego i darmowego kalkulatora online.",
   "menstrualCycleTitle": "Kalkulator Cyklu Miesiączkowego",
@@ -130,7 +193,27 @@
   "menstrualCycleHeading": "Daty Twojego Następnego Okresu",
   "resultNextPeriod1": "Następny Przewidywany Okres",
   "resultNextPeriod2": "Kolejny Przewidywany Okres",
-  "seoMenstrualSections": [],
+  "seoMenstrualSections": [
+    {
+      "heading": "Jak działa nasz kalkulator miesiączki",
+      "paragraphs": [
+        "Nasz Kalkulator Cyklu Miesiączkowego pomaga przewidzieć datę rozpoczęcia następnej miesiączki na podstawie tylko dwóch informacji: pierwszego dnia ostatniej miesiączki i średniej długości cyklu miesiączkowego. Dodając średnią długość cyklu do daty rozpoczęcia ostatniej miesiączki, narzędzie podaje szacunkową datę dwóch następnych okresów.",
+        "Śledzenie cyklu to coś więcej niż wygoda; to kluczowy wskaźnik ogólnego stanu zdrowia. Regularne, przewidywalne cykle często oznaczają, że hormony w Twoim ciele funkcjonują prawidłowo."
+      ],
+      "list": [
+        "Proste dane wejściowe: Wprowadź datę rozpoczęcia ostatniej miesiączki i długość cyklu.",
+        "Natychmiastowe prognozy: Natychmiast zobacz szacunkowe daty następnych miesiączek.",
+        "Planuj z wyprzedzeniem: Użyj prognoz, aby zaplanować wydarzenia, wakacje lub po prostu być przygotowaną."
+      ]
+    },
+    {
+      "heading": "Zrozumienie cyklu miesiączkowego",
+      "paragraphs": [
+        "Cykl miesiączkowy liczy się od pierwszego dnia jednej miesiączki do pierwszego dnia następnej. Chociaż średni cykl trwa 28 dni, cykle trwające od 21 do 35 dni również uważa się za normalne u dorosłych. Wiele czynników może wpływać na długość i regularność cyklu, w tym stres, dieta, ćwiczenia i niektóre schorzenia.",
+        "Jeśli Twoje cykle są stale nieregularne, znacznie krótsze lub dłuższe niż normalny zakres, lub jeśli odczuwasz silny ból, warto skonsultować się z lekarzem. Nasz kalkulator działa najlepiej dla osób z względnie regularnymi cyklami, ale nadal może dostarczyć przydatnych szacunków dla innych."
+      ]
+    }
+  ],
   "seoCalorieTitle": "Darmowy Kalkulator Kalorii - TDEE i BMR",
   "seoCalorieDescription": "Oblicz swoje dzienne zapotrzebowanie na kalorie w celu utraty, utrzymania lub przyrostu wagi. Znajdź swoje BMR i TDEE oraz uzyskaj spersonalizowane cele makroskładników.",
   "calorieTitle": "Kalkulator Kalorii",

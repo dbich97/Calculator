@@ -55,7 +55,29 @@
   "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-ula", "Jumada al-akhirah", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"],
   "daysOfWeekArray": ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"],
   "seasonsArray": ["Invierno", "Primavera", "Verano", "Otoño"],
-  "seoSections": [],
+  "seoSections": [
+    {
+      "heading": "Cómo Funciona Nuestra Calculadora de Edad",
+      "paragraphs": [
+        "Nuestra Calculadora de Edad computa tu edad con alta precisión comparando tu fecha de nacimiento con la fecha actual. La herramienta calcula el tiempo total transcurrido y lo desglosa en años, meses y días. Tiene en cuenta los años bisiestos para proporcionar un resultado preciso, lo que la convierte en una herramienta fiable para cualquiera que se pregunte '¿cuántos años tengo?'. Simplemente introduce tu fecha de nacimiento y la calculadora mostrará instantáneamente tu edad cronológica."
+      ]
+    },
+    {
+      "heading": "¿Por Qué Usar una Calculadora de Edad en Línea?",
+      "paragraphs": [
+        "Aunque calcular tu edad en años es sencillo, encontrar el número exacto de meses y días puede ser complicado. Una calculadora de edad en línea simplifica este proceso, proporcionando resultados instantáneos y precisos. Es útil para:",
+        "Rellenar formularios y solicitudes que requieren tu edad exacta.",
+        "Planificar celebraciones de cumpleaños e hitos.",
+        "Investigación genealógica y creación de líneas de tiempo familiares.",
+        "Simplemente satisfacer tu curiosidad sobre tu edad en términos detallados."
+      ],
+      "list": [
+        "Precisión: Elimina errores de cálculo manual, especialmente con los años bisiestos.",
+        "Velocidad: Obtén tu edad en segundos.",
+        "Comodidad: Accesible en cualquier momento, en cualquier lugar y en cualquier dispositivo."
+      ]
+    }
+  ],
   "shareTitle": "Comparte esta Calculadora",
   "copyLinkButton": "Copiar Enlace",
   "copiedTooltip": "¡Copiado!",
@@ -68,7 +90,20 @@
   ],
   "privacyTitle": "Política de Privacidad",
   "privacyHeading": "Tu privacidad es importante para nosotros.",
-  "privacyContent": [],
+  "privacyContent": [
+    {
+      "heading": "1. Información que Recopilamos",
+      "paragraphs": ["No recopilamos ni almacenamos ningún dato personal que introduzcas en nuestras calculadoras. Todos los cálculos se realizan directamente en tu navegador y no se envían a nuestros servidores. Tu fecha de nacimiento o cualquier otra información nunca se registra."]
+    },
+    {
+      "heading": "2. Cookies y Analíticas",
+      "paragraphs": ["Podemos utilizar herramientas de análisis anónimas para comprender cómo se utiliza nuestro sitio web. Esto nos ayuda a mejorar la experiencia del usuario. Estos datos se agregan y no se pueden utilizar para identificar a usuarios individuales. No utilizamos cookies de seguimiento."]
+    },
+    {
+      "heading": "3. Servicios de Terceros",
+      "paragraphs": ["Este sitio web no se integra con ningún servicio de terceros que pueda comprometer tu privacidad. No compartimos ningún dato con terceros."]
+    }
+  ],
   "contactTitle": "Contáctanos",
   "contactHeading": "Ponte en Contacto",
   "contactIntro": "¿Tienes preguntas, comentarios o sugerencias? Nos encantaría saber de ti. Por favor, envíanos un correo electrónico y te responderemos lo antes posible.",
@@ -95,7 +130,27 @@
   "trimester1": "Primer Trimestre",
   "trimester2": "Segundo Trimestre",
   "trimester3": "Tercer Trimestre",
-  "seoPregnancySections": [],
+  "seoPregnancySections": [
+    {
+      "heading": "Cómo Funciona Nuestra Calculadora de Fecha de Parto",
+      "paragraphs": [
+        "Nuestra Calculadora de Fecha de Parto estima tu fecha de parto esperada utilizando varios métodos. El método más común se basa en el primer día de tu última menstruación (FUM). Este enfoque, conocido como la regla de Naegele, añade 280 días (40 semanas) a tu FUM para predecir la fecha de parto. También ofrecemos cálculos basados en la fecha de concepción o la fecha de transferencia de FIV para una mayor precisión, especialmente si tienes ciclos irregulares o conoces la fecha exacta de la concepción.",
+        "Es importante recordar que esta fecha es una estimación. Solo alrededor del 5% de los bebés nacen en su fecha exacta de parto. Esta herramienta proporciona una guía fiable para ayudarte a ti y a tu proveedor de atención médica a planificar la llegada de tu bebé."
+      ],
+      "list": [
+        "Método FUM: El cálculo estándar basado en un ciclo de 28 días.",
+        "Método de Fecha de Concepción: Más preciso si conoces la fecha exacta de la concepción.",
+        "Método FIV: Diseñado para embarazos por FIV, basado en la fecha de transferencia del embrión y su edad."
+      ]
+    },
+    {
+      "heading": "Entendiendo la Cronología de tu Embarazo: Trimestres e Hitos",
+      "paragraphs": [
+        "Un embarazo a término se divide en tres trimestres, cada uno con hitos únicos de desarrollo fetal. Nuestra calculadora no solo proporciona una fecha de parto, sino que también te ayuda a comprender en qué punto de este viaje te encuentras calculando tu edad gestacional actual.",
+        "El Primer Trimestre (Semanas 1-13) es un período crítico de desarrollo para los órganos de tu bebé. El Segundo Trimestre (Semanas 14-27) a menudo se llama el 'período dorado', ya que muchos síntomas tempranos del embarazo disminuyen y puedes comenzar a sentir a tu bebé moverse. El Tercer Trimestre (Semanas 28-40+) se centra en el rápido crecimiento y aumento de peso del bebé mientras se prepara para el nacimiento. El cuidado prenatal regular a lo largo de estas etapas es esencial para un embarazo saludable."
+      ]
+    }
+  ],
   "seoOvulationTitle": "Calculadora de Ovulación y Ventana Fértil Gratis",
   "seoOvulationDescription": "Estima tu fecha de ovulación y tus días más fértiles basándose en tu última menstruación y la duración de tu ciclo. Planifica tu embarazo con nuestra precisa calculadora.",
   "ovulationTitle": "Calculadora de Ovulación",
@@ -108,7 +163,29 @@
   "resultFertileWindow": "Ventana Más Fértil",
   "fertileWindowDescription": "Desde el {startDate} hasta el {endDate}",
   "resultNextPeriod": "Fecha Estimada del Próximo Período",
-  "seoOvulationSections": [],
+  "seoOvulationSections": [
+    {
+      "heading": "Cómo Predecir Tus Días Más Fértiles",
+      "paragraphs": [
+        "Nuestra Calculadora de Ovulación es una herramienta simple diseñada para ayudarte a predecir tus días más fértiles del mes. Al ingresar el primer día de tu última menstruación y la duración promedio de tu ciclo, la calculadora estima tu fecha probable de ovulación. La ovulación es la liberación de un óvulo de tu ovario, que generalmente ocurre unos 14 días antes de que comience tu próximo período.",
+        "Tu 'ventana fértil' incluye el día de la ovulación y los cinco días previos. Esto se debe a que los espermatozoides pueden sobrevivir en el tracto reproductivo femenino hasta por cinco días. Tener relaciones sexuales durante esta ventana aumenta significativamente tus posibilidades de concepción."
+      ],
+      "list": [
+        "Ingresa Tus Datos: Comienza con la fecha de tu último período y la duración de tu ciclo.",
+        "Obtén Tu Estimación: La calculadora identifica tus días fértiles clave.",
+        "Planifica en Consecuencia: Usa esta información para ayudar con tus objetivos de planificación familiar."
+      ]
+    },
+    {
+      "heading": "Más Allá de la Calculadora: Otras Señales de Ovulación",
+      "paragraphs": [
+        "Si bien una calculadora de ovulación es un excelente punto de partida, tu cuerpo también proporciona pistas de que la ovulación se acerca. Combinar la estimación de la calculadora con estos signos físicos puede darte una imagen más precisa de tu ventana fértil. Estas señales incluyen:",
+        "Cambios en el Moco Cervical: A medida que te acercas a la ovulación, tu moco cervical puede volverse más claro, delgado y resbaladizo, similar a la consistencia de las claras de huevo.",
+        "Temperatura Corporal Basal (TCB): El seguimiento diario de tu TCB puede mostrar un aumento leve pero sostenido de la temperatura después de que ha ocurrido la ovulación.",
+        "Kits Predictores de Ovulación (OPK): Estos kits de venta libre detectan el aumento de la hormona luteinizante (LH) que ocurre 24-36 horas antes de la ovulación."
+      ]
+    }
+  ],
   "seoMenstrualTitle": "Calculadora de Ciclo Menstrual y Período",
   "seoMenstrualDescription": "Sigue tu ciclo menstrual y predice las fechas de tu próximo período con nuestra calculadora en línea simple y gratuita.",
   "menstrualCycleTitle": "Calculadora de Ciclo Menstrual",
@@ -117,7 +194,27 @@
   "menstrualCycleHeading": "Fechas de tu Próximo Período",
   "resultNextPeriod1": "Próximo Período Estimado",
   "resultNextPeriod2": "Siguiente Período Estimado",
-  "seoMenstrualSections": [],
+  "seoMenstrualSections": [
+    {
+      "heading": "Cómo Funciona Nuestra Calculadora de Período",
+      "paragraphs": [
+        "Nuestra Calculadora de Ciclo Menstrual te ayuda a predecir la fecha de inicio de tu próximo período con solo dos datos: el primer día de tu último período y la duración promedio de tu ciclo menstrual. Al sumar la duración promedio de tu ciclo a la fecha de inicio de tu último período, la herramienta proporciona una fecha estimada para tus próximos dos períodos.",
+        "Hacer un seguimiento de tu ciclo es más que una simple conveniencia; es un indicador clave de tu salud general. Los ciclos regulares y predecibles a menudo significan que las hormonas de tu cuerpo funcionan correctamente."
+      ],
+      "list": [
+        "Entradas Simples: Ingresa la fecha de inicio de tu último período y la duración del ciclo.",
+        "Predicciones Instantáneas: Ve inmediatamente las fechas estimadas para tus próximos períodos.",
+        "Planifica con Anticipación: Usa las predicciones para planificar eventos, vacaciones o simplemente para estar preparada."
+      ]
+    },
+    {
+      "heading": "Entendiendo Tu Ciclo Menstrual",
+      "paragraphs": [
+        "Un ciclo menstrual se cuenta desde el primer día de un período hasta el primer día del siguiente. Si bien el ciclo promedio dura 28 días, los ciclos que van de 21 a 35 días también se consideran normales para los adultos. Muchos factores pueden influir en la duración y regularidad de tu ciclo, incluyendo el estrés, la dieta, el ejercicio y ciertas condiciones de salud.",
+        "Si tus ciclos son consistentemente irregulares, mucho más cortos o más largos que el rango normal, o si experimentas dolor severo, es una buena idea consultar a un proveedor de atención médica. Nuestra calculadora funciona mejor para aquellas personas con ciclos relativamente regulares, pero aún así puede proporcionar una estimación útil para otras."
+      ]
+    }
+  ],
   "seoCalorieTitle": "Calculadora de Calorías Gratis - TDEE y BMR",
   "seoCalorieDescription": "Calcula tus necesidades calóricas diarias para perder, mantener o ganar peso. Encuentra tu BMR y TDEE, y obtén objetivos de macronutrientes personalizados.",
   "calorieTitle": "Calculadora de Calorías",

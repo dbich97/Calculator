@@ -1,4 +1,3 @@
-
 import type { Age } from '../types';
 
 export function calculateAge(birthDate: Date): Age {
@@ -90,6 +89,28 @@ export function getCurrentHijriYear(): number {
     }
 }
 
+/**
+ * Gets the current Solar Hijri (Persian) year.
+ * @returns The current Solar Hijri year as a number.
+ */
+export function getCurrentSolarHijriYear(): number {
+    try {
+        // Use fa-IR locale which uses the Solar Hijri calendar. Use -u-nu-latn to ensure latin numbers.
+        const solarHijriYearStr = new Intl.DateTimeFormat('fa-IR-u-nu-latn', { year: 'numeric' }).format(new Date());
+        return parseInt(solarHijriYearStr, 10);
+    } catch (e) {
+        // Fallback for older environments
+        const gregorianYear = new Date().getFullYear();
+        const gregorianMonth = new Date().getMonth(); // 0-11
+        const gregorianDay = new Date().getDate();
+        // Persian new year is around March 21
+        if (gregorianMonth < 2 || (gregorianMonth === 2 && gregorianDay < 21)) {
+            return gregorianYear - 622;
+        }
+        return gregorianYear - 621;
+    }
+}
+
 
 /**
  * Converts a Hijri date to a Gregorian date.
@@ -112,4 +133,34 @@ export function hijriToGregorian(hy: number, hm: number, hd: number): Date {
     const month = j + 2 - 12 * l;
     const year = 100 * (n - 49) + i + l;
     return new Date(year, month - 1, day);
+}
+
+/**
+ * Converts a Solar Hijri (Jalali/Persian) date to a Gregorian date.
+ * @param sy - Solar Hijri year
+ * @param sm - Solar Hijri month
+ * @param sd - Solar Hijri day
+ * @returns A Gregorian Date object.
+ */
+export function solarHijriToGregorian(sy: number, sm: number, sd: number): Date {
+    const PERSIAN_EPOCH = 1948320.5;
+
+    // Calculate days passed since the start of the Solar Hijri year
+    let daysPassed;
+    if (sm <= 6) {
+        daysPassed = (sm - 1) * 31;
+    } else {
+        daysPassed = (6 * 31) + (sm - 7) * 30;
+    }
+    daysPassed += sd;
+
+    // Calculate Julian Day Number
+    const yearInEra = sy > 0 ? sy - 1 : sy;
+    const julianDay = PERSIAN_EPOCH - 1 + 365 * yearInEra + Math.floor((8 * yearInEra + 21) / 33) + daysPassed;
+
+    // Convert Julian Day to milliseconds since Unix epoch
+    // 2440587.5 is the Julian Day of the Unix epoch
+    const milliseconds = (julianDay - 2440587.5) * 86400000;
+
+    return new Date(milliseconds);
 }

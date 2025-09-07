@@ -55,7 +55,29 @@
   "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-ula", "Jumada al-akhirah", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"],
   "daysOfWeekArray": ["Domingo", "Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado"],
   "seasonsArray": ["Inverno", "Primavera", "Verão", "Outono"],
-  "seoSections": [],
+  "seoSections": [
+    {
+      "heading": "Como a Nossa Calculadora de Idade Funciona",
+      "paragraphs": [
+        "A nossa Calculadora de Idade calcula a sua idade com alta precisão comparando a sua data de nascimento com a data atual. A ferramenta calcula o tempo total decorrido e divide-o em anos, meses e dias. Tem em conta os anos bissextos para fornecer um resultado preciso, tornando-a uma ferramenta fiável para quem pergunta 'quantos anos tenho?'. Basta inserir a sua data de nascimento e a calculadora exibe instantaneamente a sua idade cronológica."
+      ]
+    },
+    {
+      "heading": "Porquê Usar uma Calculadora de Idade Online?",
+      "paragraphs": [
+        "Embora calcular a sua idade em anos seja simples, encontrar o número exato de meses e dias pode ser complicado. Uma calculadora de idade online simplifica este processo, fornecendo resultados instantâneos e precisos. É útil para:",
+        "Preencher formulários e candidaturas que exigem a sua idade exata.",
+        "Planear celebrações de aniversário e marcos importantes.",
+        "Pesquisa de genealogia e criação de linhas de tempo familiares.",
+        "Simplesmente satisfazer a sua curiosidade sobre a sua idade em termos detalhados."
+      ],
+      "list": [
+        "Precisão: Elimina erros de cálculo manual, especialmente com anos bissextos.",
+        "Rapidez: Obtenha a sua idade em segundos.",
+        "Conveniência: Acessível a qualquer hora, em qualquer lugar, em qualquer dispositivo."
+      ]
+    }
+  ],
   "shareTitle": "Compartilhe esta Calculadora",
   "copyLinkButton": "Copiar Link",
   "copiedTooltip": "Copiado!",
@@ -79,7 +101,7 @@
     },
     {
       "heading": "3. Serviços de Terceiros",
-      "paragraphs": ["Este site не se integra com nenhum serviço de terceiros que possa comprometer sua privacidade. Não compartilhamos nenhum dado com terceiros."]
+      "paragraphs": ["Este site não se integra com nenhum serviço de terceiros que possa comprometer sua privacidade. Não compartilhamos nenhum dado com terceiros."]
     }
   ],
   "contactTitle": "Fale Conosco",
@@ -108,7 +130,27 @@
   "trimester1": "Primeiro Trimestre",
   "trimester2": "Segundo Trimestre",
   "trimester3": "Terceiro Trimestre",
-  "seoPregnancySections": [],
+  "seoPregnancySections": [
+    {
+      "heading": "Como a Nossa Calculadora de Data de Parto Funciona",
+      "paragraphs": [
+        "A nossa Calculadora de Data de Parto estima a sua data de parto esperada usando vários métodos. O método mais comum baseia-se no primeiro dia da sua última menstruação (DUM). Esta abordagem, conhecida como regra de Naegele, adiciona 280 dias (40 semanas) à sua DUM para prever a data de parto. Também oferecemos cálculos baseados na data da concepção ou na data de transferência de FIV para maior precisão, especialmente se tiver ciclos irregulares ou souber a data exata da concepção.",
+        "É importante lembrar que esta data é uma estimativa. Apenas cerca de 5% dos bebés nascem na data exata de parto. Esta ferramenta fornece uma diretriz fiável para ajudar você e o seu profissional de saúde a planear a chegada do seu bebé."
+      ],
+      "list": [
+        "Método DUM: O cálculo padrão baseado num ciclo de 28 dias.",
+        "Método da Data de Concepção: Mais preciso se souber a data exata da concepção.",
+        "Método FIV: Adaptado para gravidezes de FIV, baseado na data de transferência do embrião e na sua idade."
+      ]
+    },
+    {
+      "heading": "Compreender a Sua Linha do Tempo da Gravidez: Trimestres e Marcos",
+      "paragraphs": [
+        "Uma gravidez a termo é dividida em três trimestres, cada um com marcos de desenvolvimento fetal únicos. A nossa calculadora não só fornece uma data de parto, mas também a ajuda a compreender onde está nesta jornada, calculando a sua idade gestacional atual.",
+        "O Primeiro Trimestre (Semanas 1-13) é um período crítico de desenvolvimento para os órgãos do seu bebé. O Segundo Trimestre (Semanas 14-27) é frequentemente chamado de 'período dourado', pois muitos sintomas do início da gravidez diminuem e pode começar a sentir o seu bebé a mexer-se. O Terceiro Trimestre (Semanas 28-40+) foca-se no crescimento rápido e ganho de peso do bebé enquanto se prepara para o nascimento. O cuidado pré-natal regular ao longo destas fases é essencial para uma gravidez saudável."
+      ]
+    }
+  ],
   "seoOvulationTitle": "Calculadora de Ovulação e Período Fértil Grátis",
   "seoOvulationDescription": "Estime sua data de ovulação e seus dias mais férteis com base na sua última menstruação e duração do ciclo. Planeje sua gravidez com nossa calculadora precisa.",
   "ovulationTitle": "Calculadora de Ovulação",
@@ -121,7 +163,29 @@
   "resultFertileWindow": "Período Mais Fértil",
   "fertileWindowDescription": "De {startDate} a {endDate}",
   "resultNextPeriod": "Data Estimada do Próximo Período",
-  "seoOvulationSections": [],
+  "seoOvulationSections": [
+    {
+      "heading": "Como Prever os Seus Dias Mais Férteis",
+      "paragraphs": [
+        "A nossa Calculadora de Ovulação é uma ferramenta simples projetada para a ajudar a prever os seus dias mais férteis do mês. Ao inserir o primeiro dia da sua última menstruação e a duração média do seu ciclo, a calculadora estima a sua data provável de ovulação. A ovulação é a libertação de um óvulo do seu ovário, o que normalmente acontece cerca de 14 dias antes do início do seu próximo período.",
+        "A sua 'janela fértil' inclui o dia da ovulação e os cinco dias que o antecedem. Isto deve-se ao facto de o esperma poder sobreviver no trato reprodutivo feminino por até cinco dias. Ter relações sexuais durante esta janela aumenta significativamente as suas hipóteses de concepção."
+      ],
+      "list": [
+        "Insira os Seus Dados: Comece com a data da sua última menstruação e a duração do seu ciclo.",
+        "Obtenha a Sua Estimativa: A calculadora identifica os seus principais dias férteis.",
+        "Planeie Conforme: Use esta informação para ajudar com os seus objetivos de planeamento familiar."
+      ]
+    },
+    {
+      "heading": "Para Além da Calculadora: Outros Sinais de Ovulação",
+      "paragraphs": [
+        "Embora uma calculadora de ovulação seja um ótimo ponto de partida, o seu corpo também fornece pistas de que a ovulação está a aproximar-se. Combinar a estimativa da calculadora com estes sinais físicos pode dar-lhe uma imagem mais precisa da sua janela fértil. Estes sinais incluem:",
+        "Alterações no Muco Cervical: À medida que se aproxima da ovulação, o seu muco cervical pode tornar-se mais claro, fino e escorregadio, semelhante à consistência de clara de ovo.",
+        "Temperatura Corporal Basal (TCB): O acompanhamento diário da sua TCB pode mostrar um aumento ligeiro, mas sustentado, da temperatura após a ocorrência da ovulação.",
+        "Kits de Previsão de Ovulação (OPKs): Estes kits de venda livre detetam o pico da hormona luteinizante (LH) que ocorre 24-36 horas antes da ovulação."
+      ]
+    }
+  ],
   "seoMenstrualTitle": "Calculadora de Ciclo Menstrual e Período",
   "seoMenstrualDescription": "Acompanhe seu ciclo menstrual e preveja as datas do seu próximo período com nossa calculadora online simples e gratuita.",
   "menstrualCycleTitle": "Calculadora de Ciclo Menstrual",
@@ -130,11 +194,31 @@
   "menstrualCycleHeading": "Datas do Seu Próximo Período",
   "resultNextPeriod1": "Próximo Período Estimado",
   "resultNextPeriod2": "Período Seguinte Estimado",
-  "seoMenstrualSections": [],
+  "seoMenstrualSections": [
+    {
+      "heading": "Como a Nossa Calculadora de Período Funciona",
+      "paragraphs": [
+        "A nossa Calculadora de Ciclo Menstrual ajuda-a a prever a data de início do seu próximo período com apenas duas informações: o primeiro dia do seu último período e a duração média do seu ciclo menstrual. Ao adicionar a duração média do seu ciclo à data de início do seu último período, a ferramenta fornece uma data estimada para os seus próximos dois períodos.",
+        "Acompanhar o seu ciclo é mais do que conveniência; é um indicador chave da sua saúde geral. Ciclos regulares e previsíveis geralmente significam que as hormonas do seu corpo estão a funcionar corretamente."
+      ],
+      "list": [
+        "Entradas Simples: Insira a data de início do seu último período e a duração do ciclo.",
+        "Previsões Instantâneas: Veja imediatamente as datas estimadas para os seus próximos períodos.",
+        "Planeie com Antecedência: Use as previsões para planear eventos, férias ou simplesmente estar preparada."
+      ]
+    },
+    {
+      "heading": "Compreender o Seu Ciclo Menstrual",
+      "paragraphs": [
+        "Um ciclo menstrual é contado desde o primeiro dia de um período até ao primeiro dia do seguinte. Embora o ciclo médio seja de 28 dias, ciclos que variam de 21 a 35 dias também são considerados normais para adultos. Muitos fatores podem influenciar a duração e a regularidade do seu ciclo, incluindo stress, dieta, exercício e certas condições de saúde.",
+        "Se os seus ciclos forem consistentemente irregulares, muito mais curtos ou mais longos que o intervalo normal, ou se sentir dores fortes, é uma boa ideia consultar um profissional de saúde. A nossa calculadora funciona melhor para quem tem ciclos relativamente regulares, mas ainda pode fornecer uma estimativa útil para outras pessoas."
+      ]
+    }
+  ],
   "seoCalorieTitle": "Calculadora de Calorias Grátis - TDEE e BMR",
-  "seoCalorieDescription": "Calcule suas necessidades diárias de calorias para perda, manutenção ou ganho de peso. Encontre seu BMR e TDEE e obtenha metas personalizadas de macronutrientes.",
+  "seoCalorieDescription": "Calcule as suas necessidades diárias de calorias para perda, manutenção ou ganho de peso. Encontre o seu BMR e TDEE e obtenha metas personalizadas de macronutrientes.",
   "calorieTitle": "Calculadora de Calorias",
-  "calorieSubheading": "Calcule suas necesidades diárias para atingir seus objetivos de peso.",
+  "calorieSubheading": "Calcule as suas necessidades diárias para atingir os seus objetivos de peso.",
   "step": "Passo",
   "stepOf": "de",
   "step1_personalia": "Seu Perfil",
@@ -227,29 +311,29 @@
   "errorAge": "Por favor, insira uma idade válida (15-80).",
   "seoCalorieSections": [
     {
-      "heading": "Entendendo Suas Necessidades Calóricas Diárias",
+      "heading": "Compreender as Suas Necessidades Calóricas Diárias",
       "paragraphs": [
-        "Uma caloria é uma unidade de energia. Em nutrição, calorias se referem à energia que as pessoas obtêm dos alimentos e bebidas que consomem, e à energia que usam na atividade física. Entender suas necessidades calóricas diárias é o primeiro passo para alcançar seus objetivos de peso, seja perder, ganhar ou manter seu peso atual.",
-        "Nossa calculadora começa determinando sua Taxa Metabólica Basal (TMB), que é o número de calorias que seu corpo precisa para realizar funções básicas de sustentação da vida em repouso, como respiração, circulação e produção de células. Usamos a equação de Mifflin-St Jeor, amplamente aceita, para este cálculo. Em seguida, consideramos seu nível de atividade para calcular seu Gasto Energético Diário Total (TDEE), que é uma estimativa mais precisa de sua queima de calorias diária."
+        "Uma caloria é uma unidade de energia. Na nutrição, as calorias referem-se à energia que as pessoas obtêm dos alimentos e bebidas que consomem, e à energia que utilizam na atividade física. Compreender as suas necessidades calóricas diárias é o primeiro passo para alcançar os seus objetivos de peso, seja perder, ganhar ou manter o seu peso atual.",
+        "A nossa calculadora começa por determinar a sua Taxa Metabólica Basal (TMB), que é o número de calorias que o seu corpo necessita para realizar funções básicas de suporte de vida em repouso, como respiração, circulação e produção de células. Utilizamos a equação de Mifflin-St Jeor, amplamente aceite, para este cálculo. Depois, temos em conta o seu nível de atividade para calcular o seu Gasto Energético Diário Total (TDEE), que é uma estimativa mais precisa da sua queima calórica diária."
       ]
     },
     {
-      "heading": "Definindo Metas: Perda, Ganho ou Manutenção de Peso",
+      "heading": "Definir Metas: Perda, Ganho ou Manutenção de Peso",
       "paragraphs": [
-        "Depois de saber seu TDEE (calorias de manutenção), você pode ajustar sua ingestão para atingir seus objetivos:",
-        "Para perder peso, você precisa consumir menos calorias do que seu TDEE, criando um déficit calórico. Um déficit seguro e sustentável é tipicamente de cerca de 500 calorias por dia para perder cerca de 1 libra (0,5 kg) por semana.",
-        "Para ganhar peso, você precisa consumir mais calorias do que seu TDEE, criando um superávit calórico. Um superávit de 300-500 calorias por dia é um bom ponto de partida para um ganho muscular constante com ganho mínimo de gordura.",
-        "Para manter seu peso, você deve visar consumir um número de calorias igual ao seu TDEE."
+        "Assim que souber o seu TDEE (calorias de manutenção), pode ajustar a sua ingestão para atingir os seus objetivos:",
+        "Para perder peso, precisa de consumir menos calorias do que o seu TDEE, criando um défice calórico. Um défice seguro e sustentável é tipicamente de cerca de 500 calorias por dia para perder cerca de 1 libra (0,5 kg) por semana.",
+        "Para ganhar peso, precisa de consumir mais calorias do que o seu TDEE, criando um excedente calórico. Um excedente de 300-500 calorias por dia é um bom ponto de partida para um ganho muscular constante com ganho mínimo de gordura.",
+        "Para manter o seu peso, deve ter como objetivo consumir um número de calorias igual ao seu TDEE."
       ]
     },
     {
       "heading": "E os Macronutrientes?",
       "paragraphs": [
-        "As calorias vêm de três macronutrientes principais: proteína, carboidratos e gordura. Equilibrar esses 'macros' é fundamental para uma dieta saudável.",
+        "As calorias vêm de três macronutrientes principais: proteína, carboidratos e gordura. Equilibrar estes 'macros' é fundamental para uma dieta saudável.",
         "A proteína é crucial para construir e reparar tecidos, incluindo músculos.",
         "Os carboidratos são a principal fonte de energia do seu corpo.",
         "As gorduras são essenciais para a produção hormonal e absorção de vitaminas.",
-        "Nossa calculadora ajuda você a dividir suas calorias diárias totais em gramas de proteína, carboidratos e gordura com base em planos alimentares populares. Isso fornece uma estrutura prática para construir refeições que se alinhem com seus objetivos de saúde e fitness."
+        "A nossa calculadora ajuda-o a dividir as suas calorias diárias totais em gramas de proteína, carboidratos e gordura com base em planos alimentares populares. Isto fornece-lhe uma estrutura prática para construir refeições que se alinhem com os seus objetivos de saúde и fitness."
       ]
     }
   ]

@@ -1,6 +1,6 @@
 import React from 'react';
 import type { Translation, LanguageCode } from '../types';
-import { getCurrentHijriYear } from '../lib/utils';
+import { getCurrentHijriYear, getCurrentSolarHijriYear } from '../lib/utils';
 import { LanguageCode as LangEnum } from '../types';
 
 interface AgeCalculatorFormProps {
@@ -23,13 +23,21 @@ const AgeCalculatorForm: React.FC<AgeCalculatorFormProps> = ({ day, setDay, mont
     handleCalculate();
   };
 
-  const isHijri = lang === LangEnum.AR && calendar === 'hijri';
+  const isHijri = ['ar', 'fa'].includes(lang) && calendar === 'hijri';
 
   const currentGregorianYear = new Date().getFullYear();
   const gregorianYears = Array.from({ length: 121 }, (_, i) => currentGregorianYear - i);
   
-  const currentHijriYear = getCurrentHijriYear();
-  const hijriYears = Array.from({ length: 121 }, (_, i) => currentHijriYear - i);
+  let hijriYears: number[] = [];
+  if (isHijri) {
+    if (lang === LangEnum.AR) {
+      const currentHijriYear = getCurrentHijriYear();
+      hijriYears = Array.from({ length: 121 }, (_, i) => currentHijriYear - i);
+    } else if (lang === LangEnum.FA) {
+      const currentSolarHijriYear = getCurrentSolarHijriYear();
+      hijriYears = Array.from({ length: 121 }, (_, i) => currentSolarHijriYear - i);
+    }
+  }
 
   const years = isHijri ? hijriYears : gregorianYears;
   const months = isHijri ? t.hijriMonthsArray : t.monthsArray;

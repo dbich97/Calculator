@@ -1,4 +1,3 @@
-
 {
   "title": "Hesap Makinesi",
   "selectLanguage": "Dil Seçin",
@@ -18,6 +17,7 @@
   "homeTitle": "Hepsi Bir Arada Hesap Makinesi Merkeziniz",
   "homeDescription": "Yaştan sağlık ölçümlerine, ihtiyacınız olan tüm hesap makinelerini tek bir yerde bulun. Basit, hızlı ve doğru.",
   "homeCTAText": "Yaşınızı Hesaplayın",
+  "homeBasicCalculatorTitle": "Basit Hesap Makinesi",
   "homeHealthCalculatorsTitle": "Sağlık Hesaplayıcılarını Keşfedin",
   "homePregnancyCalculatorDescription": "Tahmini doğum tarihinizi öğrenin ve gebelik yolculuğunuzu takip edin.",
   "homeOvulationCalculatorDescription": "Aile planlamasına yardımcı olmak için en doğurgan günlerinizi belirleyin.",
@@ -54,20 +54,59 @@
   "hijriMonthsArray": ["Muharrem", "Safer", "Rebiülevvel", "Rebiülahir", "Cemaziyelevvel", "Cemaziyelahir", "Recep", "Şaban", "Ramazan", "Şevval", "Zilkade", "Zilhicce"],
   "daysOfWeekArray": ["Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"],
   "seasonsArray": ["Kış", "İlkbahar", "Yaz", "Sonbahar"],
-  "seoSections": [],
+  "seoSections": [
+    {
+      "heading": "Yaş Hesaplayıcımız Nasıl Çalışır?",
+      "paragraphs": [
+        "Yaş Hesaplayıcımız, doğum tarihinizi mevcut tarihle karşılaştırarak yaşınızı yüksek hassasiyetle hesaplar. Araç, geçen toplam süreyi hesaplar ve bunu yıllara, aylara ve günlere ayırır. Doğru bir sonuç sağlamak için artık yılları hesaba katar, bu da onu 'kaç yaşındayım?' diye soran herkes için güvenilir bir araç haline getirir. Sadece doğum tarihinizi girin, hesap makinesi anında kronolojik yaşınızı göstersin."
+      ]
+    },
+    {
+      "heading": "Neden Çevrimiçi Bir Yaş Hesaplayıcı Kullanmalısınız?",
+      "paragraphs": [
+        "Yaşınızı yıllara göre hesaplamak basit olsa da, tam ay ve gün sayısını bulmak zor olabilir. Çevrimiçi bir yaş hesaplayıcı bu süreci basitleştirir, anında ve doğru sonuçlar sağlar. Şu durumlarda kullanışlıdır:",
+        "Tam yaşınızı gerektiren formları ve başvuruları doldurmak.",
+        "Doğum günü kutlamalarını ve dönüm noktalarını planlamak.",
+        "Soyağacı araştırması yapmak ve aile zaman çizelgeleri oluşturmak.",
+        "Sadece yaşınız hakkında ayrıntılı bilgi edinme merakınızı gidermek."
+      ],
+      "list": [
+        "Doğruluk: Özellikle artık yıllarla ilgili manuel hesaplama hatalarını ortadan kaldırır.",
+        "Hız: Yaşınızı saniyeler içinde öğrenin.",
+        "Kolaylık: Her zaman, her yerde, her cihazda erişilebilir."
+      ]
+    }
+  ],
   "shareTitle": "Bu Hesap Makinesini Paylaş",
   "copyLinkButton": "Bağlantıyı Kopyala",
   "copiedTooltip": "Kopyalandı!",
   "aboutTitle": "Hakkımızda",
   "aboutHeading": "Misyonumuz",
-  "aboutContent": [],
+  "aboutContent": [
+    "Hesap Makinesi'ne hoş geldiniz, geniş bir yelpazede ücretsiz, kullanımı kolay çevrimiçi hesap makineleri için adresiniz. Misyonumuz, herkes için günlük hesaplamaları zahmetsiz hale getiren basit, hızlı ve güvenilir araçlar sağlamaktır.",
+    "Basit bir Yaş Hesaplayıcı ile başladık ve o zamandan beri çeşitli sağlık ve genel amaçlı hesap makinelerini içerecek şekilde genişledik. Bilginin erişilebilir olması gerektiğine inanıyoruz ve küresel bir kitleye hizmet etmek için araçlarımızı çok sayıda dile çevirdik.",
+    "Ekibimiz doğruluk ve kullanıcı deneyimine kendini adamıştır. Mevcut araçlarımızı geliştirmek ve ihtiyaçlarınızı karşılamak için yenilerini geliştirmek için sürekli çalışıyoruz. Hesap Makinesi'ni seçtiğiniz için teşekkür ederiz!"
+  ],
   "privacyTitle": "Gizlilik Politikası",
   "privacyHeading": "Gizliliğiniz bizim için önemlidir.",
-  "privacyContent": [],
+  "privacyContent": [
+    {
+      "heading": "1. Topladığımız Bilgiler",
+      "paragraphs": ["Hesap makinelerimize girdiğiniz hiçbir kişisel veriyi toplamıyor veya saklamıyoruz. Tüm hesaplamalar doğrudan tarayıcınızda yapılır ve sunucularımıza gönderilmez. Doğum tarihiniz veya başka herhangi bir bilgi asla kaydedilmez."]
+    },
+    {
+      "heading": "2. Çerezler ve Analitik",
+      "paragraphs": ["Web sitemizin nasıl kullanıldığını anlamak için anonim analitik araçları kullanabiliriz. Bu, kullanıcı deneyimini geliştirmemize yardımcı olur. Bu veriler toplanır ve bireysel kullanıcıları tanımlamak için kullanılamaz. İzleme çerezleri kullanmıyoruz."]
+    },
+    {
+      "heading": "3. Üçüncü Taraf Hizmetleri",
+      "paragraphs": ["Bu web sitesi, gizliliğinizi tehlikeye atacak hiçbir üçüncü taraf hizmetiyle entegre olmaz. Üçüncü taraflarla hiçbir veri paylaşmıyoruz."]
+    }
+  ],
   "contactTitle": "Bize Ulaşın",
   "contactHeading": "İletişime Geçin",
   "contactIntro": "Sorularınız, geri bildirimleriniz veya önerileriniz mi var? Sizden haber almak isteriz. Lütfen bize bir e-posta gönderin, en kısa sürede size geri döneceğiz.",
-  "contactEmail": "destek@cokhersaplayici.com",
+  "contactEmail": "destek@multicalculator.com",
   "seoPregnancyTitle": "Ücretsiz Gebelik Son Adet Tarihi Hesaplayıcı",
   "seoPregnancyDescription": "Son adet tarihinize (SAT), gebe kalma tarihinize veya tüp bebek transfer tarihinize göre tahmini doğum tarihinizi hesaplayın. Önemli gebelik kilometre taşlarını öğrenin.",
   "pregnancyTitle": "Gebelik Tarihi Hesaplayıcı",
@@ -90,7 +129,27 @@
   "trimester1": "Birinci Trimester",
   "trimester2": "İkinci Trimester",
   "trimester3": "Üçüncü Trimester",
-  "seoPregnancySections": [],
+  "seoPregnancySections": [
+    {
+      "heading": "Doğum Tarihi Hesaplayıcımız Nasıl Çalışır?",
+      "paragraphs": [
+        "Gebelik Doğum Tarihi Hesaplayıcımız, çeşitli yöntemler kullanarak beklenen doğum tarihinizi tahmin eder. En yaygın yöntem, son adet tarihinizin (SAT) ilk gününe dayanır. Naegele kuralı olarak bilinen bu yaklaşım, doğum tarihini tahmin etmek için SAT'ınıza 280 gün (40 hafta) ekler. Ayrıca, özellikle düzensiz döngüleriniz varsa veya kesin gebe kalma tarihini biliyorsanız, daha fazla doğruluk için gebe kalma tarihine veya tüp bebek transfer tarihinize dayalı hesaplamalar da sunuyoruz.",
+        "Bu tarihin bir tahmin olduğunu unutmamak önemlidir. Bebeklerin sadece yaklaşık %5'i tam olarak beklenen doğum tarihinde doğar. Bu araç, sizin ve sağlık uzmanınızın bebeğinizin gelişini planlamanıza yardımcı olacak güvenilir bir rehber sağlar."
+      ],
+      "list": [
+        "SAT Yöntemi: 28 günlük bir döngüye dayalı standart hesaplama.",
+        "Gebe Kalma Tarihi Yöntemi: Kesin gebe kalma tarihini biliyorsanız daha hassastır.",
+        "Tüp Bebek Yöntemi: Tüp bebek gebelikleri için özel olarak tasarlanmıştır, embriyo transfer tarihine ve yaşına dayanır."
+      ]
+    },
+    {
+      "heading": "Gebelik Zaman Çizelgenizi Anlamak: Trimesterler ve Kilometre Taşları",
+      "paragraphs": [
+        "Tam süreli bir gebelik, her biri benzersiz fetal gelişim kilometre taşlarına sahip üç trimestere ayrılmıştır. Hesaplayıcımız sadece bir doğum tarihi sağlamakla kalmaz, aynı zamanda mevcut gebelik yaşınızı hesaplayarak bu yolculuğun neresinde olduğunuzu anlamanıza da yardımcı olur.",
+        "Birinci Trimester (1-13. Haftalar), bebeğinizin organlarının gelişimi için kritik bir dönemdir. İkinci Trimester (14-27. Haftalar), birçok erken gebelik belirtisi azaldığı ve bebeğinizin hareketlerini hissetmeye başlayabileceğiniz için genellikle 'altın dönem' olarak adlandırılır. Üçüncü Trimester (28-40+ Haftalar), bebek doğuma hazırlanırken hızlı büyüme ve kilo alımına odaklanır. Bu aşamalar boyunca düzenli doğum öncesi bakım, sağlıklı bir gebelik için esastır."
+      ]
+    }
+  ],
   "seoOvulationTitle": "Ücretsiz Yumurtlama ve Doğurganlık Penceresi Hesaplayıcı",
   "seoOvulationDescription": "Son adet tarihinize ve döngü uzunluğunuza göre yumurtlama tarihinizi ve en doğurgan günlerinizi tahmin edin. Doğru hesaplayıcımızla gebeliğinizi planlayın.",
   "ovulationTitle": "Yumurtlama Hesaplayıcı",
@@ -103,7 +162,29 @@
   "resultFertileWindow": "En Doğurgan Pencere",
   "fertileWindowDescription": "{startDate} ile {endDate} arası",
   "resultNextPeriod": "Tahmini Sonraki Adet Tarihi",
-  "seoOvulationSections": [],
+  "seoOvulationSections": [
+    {
+      "heading": "En Doğurgan Günlerinizi Nasıl Tahmin Edersiniz?",
+      "paragraphs": [
+        "Yumurtlama Hesaplayıcımız, ayın en doğurgan günlerini tahmin etmenize yardımcı olmak için tasarlanmış basit bir araçtır. Son adet tarihinizin ilk gününü ve ortalama döngü uzunluğunuzu girerek, hesap makinesi olası yumurtlama tarihinizi tahmin eder. Yumurtlama, yumurtalığınızdan bir yumurtanın salınmasıdır ve bu genellikle bir sonraki adet döneminizin başlamasından yaklaşık 14 gün önce gerçekleşir.",
+        "'Doğurganlık pencereniz' yumurtlama gününü ve ondan önceki beş günü içerir. Bunun nedeni, spermin kadın üreme sisteminde beş güne kadar hayatta kalabilmesidir. Bu pencere sırasında cinsel ilişkiye girmek, gebe kalma şansınızı önemli ölçüde artırır."
+      ],
+      "list": [
+        "Verilerinizi Girin: Son adet tarihiniz ve döngü uzunluğunuzla başlayın.",
+        "Tahmininizi Alın: Hesap makinesi, anahtar doğurgan günlerinizi belirler.",
+        "Buna Göre Plan Yapın: Bu bilgiyi aile planlaması hedeflerinize yardımcı olmak için kullanın."
+      ]
+    },
+    {
+      "heading": "Hesaplayıcının Ötesinde: Diğer Yumurtlama Belirtileri",
+      "paragraphs": [
+        "Bir yumurtlama hesaplayıcısı harika bir başlangıç noktası olsa da, vücudunuz da yumurtlamanın yaklaştığına dair ipuçları verir. Hesaplayıcının tahminini bu fiziksel belirtilerle birleştirmek, doğurganlık pencerenizin daha doğru bir resmini verebilir. Bu belirtiler şunları içerir:",
+        "Rahim Ağzı Sıvısındaki Değişiklikler: Yumurtlamaya yaklaştıkça, rahim ağzı sıvınız daha berrak, daha ince ve daha kaygan hale gelebilir, yumurta akı kıvamına benzer.",
+        "Bazal Vücut Sıcaklığı (BVT): BVT'nizi günlük olarak takip etmek, yumurtlama meydana geldikten sonra hafif ama sürekli bir sıcaklık artışı gösterebilir.",
+        "Yumurtlama Tahmin Kitleri (OPK'lar): Bu reçetesiz satılan kitler, yumurtlamadan 24-36 saat önce meydana gelen lüteinizan hormon (LH) artışını tespit eder."
+      ]
+    }
+  ],
   "seoMenstrualTitle": "Adet Döngüsü ve Periyot Hesaplayıcı",
   "seoMenstrualDescription": "Basit ve ücretsiz çevrimiçi hesaplayıcımızla adet döngünüzü takip edin ve bir sonraki adet tarihlerinizi tahmin edin.",
   "menstrualCycleTitle": "Adet Döngüsü Hesaplayıcı",
@@ -112,7 +193,27 @@
   "menstrualCycleHeading": "Sonraki Adet Tarihleriniz",
   "resultNextPeriod1": "Tahmini Sonraki Adet",
   "resultNextPeriod2": "Takip Eden Tahmini Adet",
-  "seoMenstrualSections": [],
+  "seoMenstrualSections": [
+    {
+      "heading": "Adet Hesaplayıcımız Nasıl Çalışır?",
+      "paragraphs": [
+        "Adet Döngüsü Hesaplayıcımız, sadece iki bilgiyle bir sonraki adetinizin başlangıç tarihini tahmin etmenize yardımcı olur: son adetinizin ilk günü ve adet döngünüzün ortalama uzunluğu. Ortalama döngü uzunluğunuzu son adetinizin başlangıç tarihine ekleyerek, araç bir sonraki iki adet döneminiz için tahmini bir tarih sağlar.",
+        "Döngünüzü takip etmek sadece kolaylık sağlamakla kalmaz; genel sağlığınızın önemli bir göstergesidir. Düzenli, öngörülebilir döngüler genellikle vücudunuzun hormonlarının doğru çalıştığını gösterir."
+      ],
+      "list": [
+        "Basit Girdiler: Son adet başlangıç tarihinizi ve döngü uzunluğunuzu girin.",
+        "Anında Tahminler: Bir sonraki adet dönemleriniz için tahmini tarihleri anında görün.",
+        "Önceden Plan Yapın: Etkinlikler, tatiller için plan yapmak veya sadece hazırlıklı olmak için tahminleri kullanın."
+      ]
+    },
+    {
+      "heading": "Adet Döngünüzü Anlamak",
+      "paragraphs": [
+        "Bir adet döngüsü, bir adetin ilk gününden bir sonrakinin ilk gününe kadar sayılır. Ortalama döngü 28 gün sürse de, yetişkinler için 21 ila 35 gün arasında değişen döngüler de normal kabul edilir. Stres, diyet, egzersiz ve belirli sağlık koşulları dahil olmak üzere birçok faktör döngünüzün uzunluğunu ve düzenliliğini etkileyebilir.",
+        "Döngüleriniz sürekli düzensizse, normal aralıktan çok daha kısa veya daha uzunsa veya şiddetli ağrı yaşıyorsanız, bir sağlık uzmanına danışmak iyi bir fikirdir. Hesaplayıcımız, nispeten düzenli döngüleri olanlar için en iyi şekilde çalışır, ancak yine de diğerleri için faydalı bir tahmin sağlayabilir."
+      ]
+    }
+  ],
   "seoCalorieTitle": "Ücretsiz Kalori Hesaplayıcı - TDEE ve BMR",
   "seoCalorieDescription": "Kilo kaybı, koruma veya alımı için günlük kalori ihtiyacınızı hesaplayın. BMR ve TDEE'nizi bulun ve kişiselleştirilmiş makro besin hedefleri alın.",
   "calorieTitle": "Kalori Hesaplayıcı",

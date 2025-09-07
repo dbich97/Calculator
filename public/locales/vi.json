@@ -1,4 +1,3 @@
-
 {
   "title": "Máy tính",
   "selectLanguage": "Chọn Ngôn ngữ",
@@ -18,6 +17,7 @@
   "homeTitle": "Trung tâm Máy tính Tất cả trong Một của bạn",
   "homeDescription": "Từ tuổi tác đến các chỉ số sức khỏe, tìm tất cả các máy tính bạn cần ở một nơi. Đơn giản, nhanh chóng và chính xác.",
   "homeCTAText": "Tính Tuổi của bạn",
+  "homeBasicCalculatorTitle": "Máy tính cơ bản",
   "homeHealthCalculatorsTitle": "Khám phá các Máy tính Sức khỏe",
   "homePregnancyCalculatorDescription": "Ước tính ngày dự sinh và theo dõi hành trình mang thai của bạn.",
   "homeOvulationCalculatorDescription": "Xác định những ngày dễ thụ thai nhất để giúp kế hoạch hóa gia đình.",
@@ -54,16 +54,55 @@
   "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-ula", "Jumada al-akhirah", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"],
   "daysOfWeekArray": ["Chủ nhật", "Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy"],
   "seasonsArray": ["Mùa đông", "Mùa xuân", "Mùa hè", "Mùa thu"],
-  "seoSections": [],
+  "seoSections": [
+    {
+      "heading": "Cách Máy tính Tuổi của chúng tôi hoạt động",
+      "paragraphs": [
+        "Máy tính Tuổi của chúng tôi tính toán tuổi của bạn với độ chính xác cao bằng cách so sánh ngày sinh của bạn với ngày hiện tại. Công cụ này tính tổng thời gian đã trôi qua và chia thành năm, tháng và ngày. Nó tính cả năm nhuận để cung cấp kết quả chính xác, trở thành một công cụ đáng tin cậy cho bất kỳ ai hỏi 'tôi bao nhiêu tuổi?'. Chỉ cần nhập ngày sinh của bạn, và máy tính sẽ ngay lập tức hiển thị tuổi theo thời gian của bạn."
+      ]
+    },
+    {
+      "heading": "Tại sao nên sử dụng Máy tính Tuổi trực tuyến?",
+      "paragraphs": [
+        "Mặc dù việc tính tuổi theo năm khá đơn giản, nhưng việc tìm ra số tháng và ngày chính xác có thể phức tạp. Một máy tính tuổi trực tuyến giúp đơn giản hóa quá trình này, cung cấp kết quả tức thì và chính xác. Nó hữu ích cho việc:",
+        "Điền vào các biểu mẫu và đơn đăng ký yêu cầu tuổi chính xác của bạn.",
+        "Lên kế hoạch cho các lễ kỷ niệm sinh nhật và các cột mốc quan trọng.",
+        "Nghiên cứu gia phả và tạo dòng thời gian gia đình.",
+        "Đơn giản là thỏa mãn sự tò mò của bạn về tuổi của mình một cách chi tiết."
+      ],
+      "list": [
+        "Độ chính xác: Loại bỏ các lỗi tính toán thủ công, đặc biệt là với các năm nhuận.",
+        "Tốc độ: Nhận kết quả tuổi của bạn trong vài giây.",
+        "Tiện lợi: Có thể truy cập mọi lúc, mọi nơi, trên mọi thiết bị."
+      ]
+    }
+  ],
   "shareTitle": "Chia sẻ Máy tính này",
   "copyLinkButton": "Sao chép Liên kết",
   "copiedTooltip": "Đã sao chép!",
   "aboutTitle": "Về Chúng tôi",
   "aboutHeading": "Sứ mệnh của chúng tôi",
-  "aboutContent": [],
+  "aboutContent": [
+    "Chào mừng bạn đến với Máy tính, điểm đến của bạn cho một loạt các máy tính trực tuyến miễn phí, dễ sử dụng. Sứ mệnh của chúng tôi là cung cấp các công cụ đơn giản, nhanh chóng và đáng tin cậy giúp mọi người thực hiện các phép tính hàng ngày một cách dễ dàng.",
+    "Chúng tôi bắt đầu với một Máy tính Tuổi đơn giản và từ đó đã mở rộng để bao gồm các máy tính sức khỏe và mục đích chung khác. Chúng tôi tin vào việc làm cho thông tin có thể truy cập được và đã dịch các công cụ của mình sang nhiều ngôn ngữ để phục vụ khán giả toàn cầu.",
+    "Đội ngũ của chúng tôi tận tâm với sự chính xác và trải nghiệm người dùng. Chúng tôi không ngừng làm việc để cải thiện các công cụ hiện có và phát triển những công cụ mới để đáp ứng nhu cầu của bạn. Cảm ơn bạn đã chọn Máy tính!"
+  ],
   "privacyTitle": "Chính sách Bảo mật",
   "privacyHeading": "Sự riêng tư của bạn rất quan trọng đối với chúng tôi.",
-  "privacyContent": [],
+  "privacyContent": [
+    {
+      "heading": "1. Thông tin chúng tôi thu thập",
+      "paragraphs": ["Chúng tôi không thu thập hoặc lưu trữ bất kỳ dữ liệu cá nhân nào bạn nhập vào máy tính của chúng tôi. Mọi tính toán đều được thực hiện trực tiếp trong trình duyệt của bạn và không được gửi đến máy chủ của chúng tôi. Ngày sinh của bạn hoặc bất kỳ thông tin nào khác không bao giờ được ghi lại."]
+    },
+    {
+      "heading": "2. Cookie và Phân tích",
+      "paragraphs": ["Chúng tôi có thể sử dụng các công cụ phân tích ẩn danh để hiểu cách trang web của chúng tôi được sử dụng. Điều này giúp chúng tôi cải thiện trải nghiệm người dùng. Dữ liệu này được tổng hợp và không thể được sử dụng để nhận dạng người dùng cá nhân. Chúng tôi không sử dụng cookie theo dõi."]
+    },
+    {
+      "heading": "3. Dịch vụ của bên thứ ba",
+      "paragraphs": ["Trang web này không tích hợp với bất kỳ dịch vụ của bên thứ ba nào có thể gây tổn hại đến quyền riêng tư của bạn. Chúng tôi không chia sẻ bất kỳ dữ liệu nào với bên thứ ba."]
+    }
+  ],
   "contactTitle": "Liên hệ Chúng tôi",
   "contactHeading": "Liên lạc",
   "contactIntro": "Bạn có câu hỏi, phản hồi hoặc đề xuất? Chúng tôi rất muốn nghe từ bạn. Vui lòng gửi email cho chúng tôi và chúng tôi sẽ trả lời bạn sớm nhất có thể.",
@@ -90,7 +129,25 @@
   "trimester1": "Tam cá nguyệt thứ nhất",
   "trimester2": "Tam cá nguyệt thứ hai",
   "trimester3": "Tam cá nguyệt thứ ba",
-  "seoPregnancySections": [],
+  "seoPregnancySections": [
+    {
+      "heading": "Cách Máy tính Ngày dự sinh của chúng tôi hoạt động",
+      "paragraphs": [
+        "Máy tính Ngày dự sinh của chúng tôi ước tính ngày sinh dự kiến của bạn bằng nhiều phương pháp. Phương pháp phổ biến nhất dựa trên ngày đầu tiên của kỳ kinh nguyệt cuối cùng (LMP). Cách tiếp cận này, được gọi là quy tắc Naegele, cộng thêm 280 ngày (40 tuần) vào LMP của bạn để dự đoán ngày dự sinh. Chúng tôi cũng cung cấp các tính toán dựa trên ngày thụ thai hoặc ngày chuyển phôi IVF để có độ chính xác cao hơn, đặc biệt nếu bạn có chu kỳ không đều hoặc biết chính xác ngày thụ thai. Điều quan trọng cần nhớ là ngày này là một ước tính. Chỉ khoảng 5% trẻ sơ sinh được sinh ra đúng vào ngày dự sinh chính xác. Công cụ này cung cấp một hướng dẫn đáng tin cậy để giúp bạn và nhà cung cấp dịch vụ chăm sóc sức khỏe của bạn lên kế hoạch cho sự chào đời của em bé."
+      ],
+      "list": [
+        "Phương pháp LMP: Tính toán tiêu chuẩn dựa trên chu kỳ 28 ngày.",
+        "Phương pháp Ngày thụ thai: Chính xác hơn nếu bạn biết ngày thụ thai chính xác.",
+        "Phương pháp IVF: Dành riêng cho các trường hợp mang thai qua IVF, dựa trên ngày và tuổi của phôi được chuyển."
+      ]
+    },
+    {
+      "heading": "Hiểu về Mốc thời gian Mang thai của bạn: Các tam cá nguyệt và các cột mốc",
+      "paragraphs": [
+        "Một thai kỳ đủ tháng được chia thành ba tam cá nguyệt, mỗi tam cá nguyệt có những mốc phát triển thai nhi độc đáo. Máy tính của chúng tôi không chỉ cung cấp ngày dự sinh mà còn giúp bạn hiểu bạn đang ở đâu trong hành trình này bằng cách tính tuổi thai hiện tại của bạn. Tam cá nguyệt thứ nhất (Tuần 1-13) là giai đoạn phát triển quan trọng đối với các cơ quan của em bé. Tam cá nguyệt thứ hai (Tuần 14-27) thường được gọi là 'giai đoạn vàng' vì nhiều triệu chứng đầu thai kỳ giảm bớt, và bạn có thể bắt đầu cảm nhận được em bé cử động. Tam cá nguyệt thứ ba (Tuần 28-40+) tập trung vào sự tăng trưởng nhanh chóng và tăng cân của em bé khi chuẩn bị cho việc sinh nở. Chăm sóc trước sinh thường xuyên trong suốt các giai đoạn này là điều cần thiết cho một thai kỳ khỏe mạnh."
+      ]
+    }
+  ],
   "seoOvulationTitle": "Máy tính Rụng trứng & Cửa sổ Thụ thai Miễn phí",
   "seoOvulationDescription": "Ước tính ngày rụng trứng và những ngày dễ thụ thai nhất dựa trên kỳ kinh cuối và độ dài chu kỳ của bạn. Lên kế hoạch mang thai với máy tính chính xác của chúng tôi.",
   "ovulationTitle": "Máy tính Rụng trứng",
@@ -103,7 +160,25 @@
   "resultFertileWindow": "Cửa sổ Dễ thụ thai nhất",
   "fertileWindowDescription": "Từ {startDate} đến {endDate}",
   "resultNextPeriod": "Ngày kinh nguyệt tiếp theo ước tính",
-  "seoOvulationSections": [],
+  "seoOvulationSections": [
+    {
+      "heading": "Cách dự đoán những ngày dễ thụ thai nhất của bạn",
+      "paragraphs": [
+        "Máy tính Rụng trứng của chúng tôi là một công cụ đơn giản được thiết kế để giúp bạn dự đoán những ngày dễ thụ thai nhất trong tháng. Bằng cách nhập ngày đầu tiên của kỳ kinh nguyệt cuối cùng và độ dài chu kỳ trung bình của bạn, máy tính sẽ ước tính ngày rụng trứng có thể xảy ra. Rụng trứng là sự giải phóng một quả trứng từ buồng trứng của bạn, thường xảy ra khoảng 14 ngày trước khi kỳ kinh tiếp theo bắt đầu. 'Cửa sổ thụ thai' của bạn bao gồm ngày rụng trứng và năm ngày trước đó. Điều này là do tinh trùng có thể tồn tại trong đường sinh sản của phụ nữ lên đến năm ngày. Quan hệ tình dục trong khoảng thời gian này làm tăng đáng kể cơ hội thụ thai của bạn."
+      ],
+      "list": [
+        "Nhập dữ liệu của bạn: Bắt đầu với ngày kinh cuối và độ dài chu kỳ của bạn.",
+        "Nhận ước tính của bạn: Máy tính xác định những ngày thụ thai chính của bạn.",
+        "Lên kế hoạch phù hợp: Sử dụng thông tin này để giúp đạt được mục tiêu kế hoạch hóa gia đình của bạn."
+      ]
+    },
+    {
+      "heading": "Ngoài Máy tính: Các dấu hiệu khác của sự rụng trứng",
+      "paragraphs": [
+        "Mặc dù máy tính rụng trứng là một điểm khởi đầu tuyệt vời, cơ thể bạn cũng cung cấp các manh mối cho thấy sự rụng trứng đang đến gần. Kết hợp ước tính của máy tính với các dấu hiệu thể chất này có thể cung cấp cho bạn một bức tranh chính xác hơn về cửa sổ thụ thai của bạn. Các dấu hiệu này bao gồm: Thay đổi chất nhầy cổ tử cung: Khi bạn đến gần ngày rụng trứng, chất nhầy cổ tử cung của bạn có thể trở nên trong hơn, loãng hơn và trơn hơn, giống như lòng trắng trứng. Nhiệt độ cơ thể cơ bản (BBT): Theo dõi BBT hàng ngày của bạn có thể cho thấy một sự tăng nhiệt độ nhẹ nhưng bền vững sau khi rụng trứng đã xảy ra. Bộ dụng cụ dự đoán rụng trứng (OPK): Các bộ dụng cụ không kê đơn này phát hiện sự gia tăng hormone luteinizing (LH) xảy ra 24-36 giờ trước khi rụng trứng."
+      ]
+    }
+  ],
   "seoMenstrualTitle": "Máy tính Chu kỳ Kinh nguyệt & Kỳ kinh",
   "seoMenstrualDescription": "Theo dõi chu kỳ kinh nguyệt của bạn và dự đoán ngày có kinh tiếp theo bằng máy tính trực tuyến đơn giản và miễn phí của chúng tôi.",
   "menstrualCycleTitle": "Máy tính Chu kỳ Kinh nguyệt",
@@ -112,7 +187,25 @@
   "menstrualCycleHeading": "Ngày có kinh tiếp theo của bạn",
   "resultNextPeriod1": "Kỳ kinh dự kiến tiếp theo",
   "resultNextPeriod2": "Kỳ kinh dự kiến sau đó",
-  "seoMenstrualSections": [],
+  "seoMenstrualSections": [
+    {
+      "heading": "Cách Máy tính Kỳ kinh của chúng tôi hoạt động",
+      "paragraphs": [
+        "Máy tính Chu kỳ Kinh nguyệt của chúng tôi giúp bạn dự đoán ngày bắt đầu của kỳ kinh tiếp theo chỉ với hai thông tin: ngày đầu tiên của kỳ kinh cuối và độ dài trung bình của chu kỳ kinh nguyệt của bạn. Bằng cách cộng độ dài chu kỳ trung bình vào ngày bắt đầu kỳ kinh cuối, công cụ sẽ cung cấp một ngày ước tính cho hai kỳ kinh tiếp theo của bạn. Theo dõi chu kỳ của bạn không chỉ là sự tiện lợi; đó là một chỉ số quan trọng về sức khỏe tổng thể của bạn. Chu kỳ đều đặn, có thể dự đoán được thường biểu thị rằng hormone của cơ thể bạn đang hoạt động chính xác."
+      ],
+      "list": [
+        "Nhập liệu đơn giản: Nhập ngày bắt đầu kỳ kinh cuối và độ dài chu kỳ của bạn.",
+        "Dự đoán tức thì: Xem ngay ngày ước tính cho các kỳ kinh tiếp theo của bạn.",
+        "Lên kế hoạch trước: Sử dụng các dự đoán để lên kế hoạch cho các sự kiện, kỳ nghỉ, hoặc đơn giản là để chuẩn bị."
+      ]
+    },
+    {
+      "heading": "Hiểu về Chu kỳ Kinh nguyệt của bạn",
+      "paragraphs": [
+        "Một chu kỳ kinh nguyệt được tính từ ngày đầu tiên của một kỳ kinh đến ngày đầu tiên của kỳ kinh tiếp theo. Mặc dù chu kỳ trung bình dài 28 ngày, chu kỳ kéo dài từ 21 đến 35 ngày cũng được coi là bình thường đối với người lớn. Nhiều yếu tố có thể ảnh hưởng đến độ dài và sự đều đặn của chu kỳ, bao gồm căng thẳng, chế độ ăn uống, tập thể dục và một số tình trạng sức khỏe. Nếu chu kỳ của bạn liên tục không đều, ngắn hơn hoặc dài hơn nhiều so với phạm vi bình thường, hoặc nếu bạn bị đau dữ dội, bạn nên tham khảo ý kiến của nhà cung cấp dịch vụ chăm sóc sức khỏe. Máy tính của chúng tôi hoạt động tốt nhất cho những người có chu kỳ tương đối đều đặn nhưng vẫn có thể cung cấp một ước tính hữu ích cho những người khác."
+      ]
+    }
+  ],
   "seoCalorieTitle": "Máy tính Calo Miễn phí - TDEE & BMR",
   "seoCalorieDescription": "Tính toán nhu cầu calo hàng ngày của bạn để giảm cân, duy trì hoặc tăng cân. Tìm BMR và TDEE của bạn và nhận các mục tiêu dinh dưỡng đa lượng được cá nhân hóa.",
   "calorieTitle": "Máy tính Calo",
@@ -175,7 +268,7 @@
     "fastWeightGain": "Để tăng cân nhanh",
     "sedentary": "Ít vận động: ít hoặc không tập thể dục",
     "lightlyActive": "Hoạt động nhẹ: tập thể dục 1-3 ngày/tuần",
-  "moderatelyActive": "Hoạt động vừa phải: tập thể dục 3-5 ngày/tuần",
+    "moderatelyActive": "Hoạt động vừa phải: tập thể dục 3-5 ngày/tuần",
     "veryActive": "Rất năng động: tập thể dục 6-7 ngày/tuần",
     "extraActive": "Cực kỳ năng động: tập thể dục rất nặng và công việc thể chất"
   },

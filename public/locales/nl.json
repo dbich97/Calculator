@@ -1,4 +1,3 @@
-
 {
   "title": "Rekenmachine",
   "selectLanguage": "Selecteer Taal",
@@ -55,7 +54,29 @@
   "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-ula", "Jumada al-akhirah", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"],
   "daysOfWeekArray": ["Zondag", "Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrijdag", "Zaterdag"],
   "seasonsArray": ["Winter", "Lente", "Zomer", "Herfst"],
-  "seoSections": [],
+  "seoSections": [
+    {
+      "heading": "Hoe onze leeftijdscalculator werkt",
+      "paragraphs": [
+        "Onze Leeftijdscalculator berekent uw leeftijd met hoge precisie door uw geboortedatum te vergelijken met de huidige datum. De tool berekent de totale verstreken tijd en splitst deze op in jaren, maanden en dagen. Er wordt rekening gehouden met schrikkeljaren om een nauwkeurig resultaat te bieden, waardoor het een betrouwbaar hulpmiddel is voor iedereen die zich afvraagt 'hoe oud ben ik?'. Voer eenvoudig uw geboortedatum in en de calculator toont direct uw chronologische leeftijd."
+      ]
+    },
+    {
+      "heading": "Waarom een online leeftijdscalculator gebruiken?",
+      "paragraphs": [
+        "Hoewel het berekenen van uw leeftijd in jaren eenvoudig is, kan het vinden van het exacte aantal maanden en dagen lastig zijn. Een online leeftijdscalculator vereenvoudigt dit proces en levert onmiddellijke en nauwkeurige resultaten. Het is handig voor:",
+        "Het invullen van formulieren en aanvragen die uw exacte leeftijd vereisen.",
+        "Het plannen van verjaardagsvieringen en mijlpalen.",
+        "Genealogisch onderzoek en het maken van familietijdlijnen.",
+        "Gewoon om uw nieuwsgierigheid naar uw leeftijd in gedetailleerde termen te bevredigen."
+      ],
+      "list": [
+        "Nauwkeurigheid: Elimineert handmatige rekenfouten, vooral met schrikkeljaren.",
+        "Snelheid: Krijg uw leeftijd in seconden.",
+        "Gemak: Altijd, overal en op elk apparaat toegankelijk."
+      ]
+    }
+  ],
   "shareTitle": "Deel deze Calculator",
   "copyLinkButton": "Kopieer Link",
   "copiedTooltip": "Gekopieerd!",
@@ -108,7 +129,27 @@
   "trimester1": "Eerste Trimester",
   "trimester2": "Tweede Trimester",
   "trimester3": "Derde Trimester",
-  "seoPregnancySections": [],
+  "seoPregnancySections": [
+    {
+      "heading": "Hoe onze uitgerekende datum calculator werkt",
+      "paragraphs": [
+        "Onze Zwangerschapsuitgerekende Datum Calculator schat uw verwachte bevallingsdatum met behulp van verschillende methoden. De meest gebruikelijke methode is gebaseerd op de eerste dag van uw laatste menstruatie (LMP). Deze aanpak, bekend als de regel van Naegele, voegt 280 dagen (40 weken) toe aan uw LMP om de uitgerekende datum te voorspellen. We bieden ook berekeningen op basis van de conceptiedatum of uw IVF-transferdatum voor grotere nauwkeurigheid, vooral als u onregelmatige cycli heeft of de exacte conceptiedatum weet.",
+        "Het is belangrijk te onthouden dat deze datum een schatting is. Slechts ongeveer 5% van de baby's wordt op hun exacte uitgerekende datum geboren. Deze tool biedt een betrouwbare richtlijn om u en uw zorgverlener te helpen bij het plannen van de komst van uw baby."
+      ],
+      "list": [
+        "LMP-methode: De standaardberekening op basis van een cyclus van 28 dagen.",
+        "Conceptiedatum-methode: Nauwkeuriger als u de exacte conceptiedatum weet.",
+        "IVF-methode: Op maat gemaakt voor IVF-zwangerschappen, gebaseerd op de embryotransferdatum en -leeftijd."
+      ]
+    },
+    {
+      "heading": "Uw zwangerschapstijdlijn begrijpen: trimesters en mijlpalen",
+      "paragraphs": [
+        "Een voldragen zwangerschap is verdeeld in drie trimesters, elk met unieke mijlpalen in de ontwikkeling van de foetus. Onze calculator geeft niet alleen een uitgerekende datum, maar helpt u ook te begrijpen waar u zich in deze reis bevindt door uw huidige zwangerschapsduur te berekenen.",
+        "Het Eerste Trimester (weken 1-13) is een kritieke periode voor de ontwikkeling van de organen van uw baby. Het Tweede Trimester (weken 14-27) wordt vaak de 'gouden periode' genoemd, omdat veel vroege zwangerschapssymptomen afnemen en u uw baby kunt gaan voelen bewegen. Het Derde Trimester (weken 28-40+) is gericht op snelle groei en gewichtstoename van de baby terwijl hij zich voorbereidt op de geboorte. Regelmatige prenatale zorg gedurende deze stadia is essentieel voor een gezonde zwangerschap."
+      ]
+    }
+  ],
   "seoOvulationTitle": "Gratis Ovulatie & Vruchtbare Periode Calculator",
   "seoOvulationDescription": "Schat je ovulatiedatum en meest vruchtbare dagen op basis van je laatste menstruatie en cycluslengte. Plan je zwangerschap met onze nauwkeurige calculator.",
   "ovulationTitle": "Ovulatiecalculator",
@@ -121,7 +162,29 @@
   "resultFertileWindow": "Meest Vruchtbare Periode",
   "fertileWindowDescription": "Van {startDate} tot {endDate}",
   "resultNextPeriod": "Geschatte Datum Volgende Menstruatie",
-  "seoOvulationSections": [],
+  "seoOvulationSections": [
+    {
+      "heading": "Hoe uw meest vruchtbare dagen te voorspellen",
+      "paragraphs": [
+        "Onze Ovulatiecalculator is een eenvoudig hulpmiddel dat is ontworpen om u te helpen uw meest vruchtbare dagen van de maand te voorspellen. Door de eerste dag van uw laatste menstruatie en uw gemiddelde cycluslengte in te voeren, schat de calculator uw waarschijnlijke ovulatiedatum. Ovulatie is het vrijkomen van een eicel uit uw eierstok, wat meestal ongeveer 14 dagen voor het begin van uw volgende menstruatie gebeurt.",
+        "Uw 'vruchtbare periode' omvat de dag van de ovulatie en de vijf dagen ervoor. Dit komt omdat sperma tot vijf dagen in het vrouwelijke voortplantingsstelsel kan overleven. Geslachtsgemeenschap tijdens deze periode verhoogt uw kansen op conceptie aanzienlijk."
+      ],
+      "list": [
+        "Voer uw gegevens in: Begin met de datum van uw laatste menstruatie en uw cycluslengte.",
+        "Krijg uw schatting: De calculator identificeert uw belangrijkste vruchtbare dagen.",
+        "Plan dienovereenkomstig: Gebruik deze informatie om te helpen bij uw gezinsplanningsdoelen."
+      ]
+    },
+    {
+      "heading": "Naast de calculator: andere tekenen van ovulatie",
+      "paragraphs": [
+        "Hoewel een ovulatiecalculator een goed uitgangspunt is, geeft uw lichaam ook aanwijzingen dat de ovulatie nadert. Het combineren van de schatting van de calculator met deze lichamelijke tekenen kan u een nauwkeuriger beeld geven van uw vruchtbare periode. Deze tekenen omvatten:",
+        "Veranderingen in baarmoederhalsslijm: Naarmate u de ovulatie nadert, kan uw baarmoederhalsslijm helderder, dunner en gladder worden, vergelijkbaar met de consistentie van eiwit.",
+        "Basale lichaamstemperatuur (BBT): Het dagelijks bijhouden van uw BBT kan een lichte maar aanhoudende temperatuurstijging laten zien nadat de ovulatie heeft plaatsgevonden.",
+        "Ovulatietesten (OPK's): Deze vrij verkrijgbare kits detecteren de piek in het luteïniserend hormoon (LH) die 24-36 uur voor de ovulatie plaatsvindt."
+      ]
+    }
+  ],
   "seoMenstrualTitle": "Menstruatiecyclus & Ongesteldheid Calculator",
   "seoMenstrualDescription": "Volg je menstruatiecyclus en voorspel je volgende menstruatiedata met onze eenvoudige en gratis online calculator.",
   "menstrualCycleTitle": "Menstruatiecyclus Calculator",
@@ -130,7 +193,27 @@
   "menstrualCycleHeading": "Jouw Volgende Menstruatiedata",
   "resultNextPeriod1": "Volgende Geschatte Menstruatie",
   "resultNextPeriod2": "Daaropvolgende Geschatte Menstruatie",
-  "seoMenstrualSections": [],
+  "seoMenstrualSections": [
+    {
+      "heading": "Hoe onze menstruatiecalculator werkt",
+      "paragraphs": [
+        "Onze Menstruatiecyclus Calculator helpt u de startdatum van uw volgende menstruatie te voorspellen met slechts twee stukjes informatie: de eerste dag van uw laatste menstruatie en de gemiddelde lengte van uw menstruatiecyclus. Door uw gemiddelde cycluslengte op te tellen bij de startdatum van uw laatste menstruatie, geeft de tool een geschatte datum voor uw volgende twee periodes.",
+        "Het bijhouden van uw cyclus is meer dan alleen gemak; het is een belangrijke indicator van uw algehele gezondheid. Regelmatige, voorspelbare cycli duiden vaak op een correcte werking van de hormonen in uw lichaam."
+      ],
+      "list": [
+        "Eenvoudige invoer: Voer de startdatum van uw laatste menstruatie en de cycluslengte in.",
+        "Directe voorspellingen: Zie onmiddellijk geschatte data voor uw volgende menstruaties.",
+        "Plan vooruit: Gebruik de voorspellingen om te plannen voor evenementen, vakanties of gewoon om voorbereid te zijn."
+      ]
+    },
+    {
+      "heading": "Uw menstruatiecyclus begrijpen",
+      "paragraphs": [
+        "Een menstruatiecyclus wordt geteld vanaf de eerste dag van de ene menstruatie tot de eerste dag van de volgende. Hoewel de gemiddelde cyclus 28 dagen duurt, worden cycli van 21 tot 35 dagen ook als normaal beschouwd voor volwassenen. Veel factoren kunnen de lengte en regelmaat van uw cyclus beïnvloeden, waaronder stress, dieet, lichaamsbeweging en bepaalde gezondheidsproblemen.",
+        "Als uw cycli consequent onregelmatig zijn, veel korter of langer dan het normale bereik, of als u hevige pijn ervaart, is het een goed idee om een zorgverlener te raadplegen. Onze calculator werkt het beste voor degenen met relatief regelmatige cycli, maar kan nog steeds een nuttige schatting geven voor anderen."
+      ]
+    }
+  ],
   "seoCalorieTitle": "Gratis Caloriecalculator - TDEE & BMR",
   "seoCalorieDescription": "Bereken je dagelijkse caloriebehoefte voor gewichtsverlies, -behoud of -toename. Vind je BMR en TDEE en krijg gepersonaliseerde macronutriëntdoelen.",
   "calorieTitle": "Caloriecalculator",

@@ -59,7 +59,7 @@
     {
       "heading": "How Our Age Calculator Works",
       "paragraphs": [
-        "Our Age Calculator computes your age with high precision by comparing your date of birth to the current date. The tool calculates the total elapsed time and breaks it down into years, months, and days. It accounts for leap years to provide an accurate result, making it a reliable tool for anyone asking 'how old am I?'. Simply enter your birthdate, and the calculator instantly displays your chronological age."
+        "Our Age Calculator computes your age with high precision by comparing your date of birth to the current date. The tool calculates the total elapsed time and breaks it down into years, months, and days. It accounts for leap years to provide an accurate result, making it a reliable tool for anyone asking 'how old am i?'. Simply enter your birthdate, and the calculator instantly displays your chronological age."
       ]
     },
     {
@@ -130,7 +130,27 @@
   "trimester1": "First Trimester",
   "trimester2": "Second Trimester",
   "trimester3": "Third Trimester",
-  "seoPregnancySections": [],
+  "seoPregnancySections": [
+    {
+      "heading": "How Our Due Date Calculator Works",
+      "paragraphs": [
+        "Our Pregnancy Due Date Calculator estimates your expected delivery date using several methods. The most common method is based on the first day of your last menstrual period (LMP). This approach, known as Naegele's rule, adds 280 days (40 weeks) to your LMP to predict the due date. We also offer calculations based on the date of conception or your IVF transfer date for greater accuracy, especially if you have irregular cycles or know the exact date of conception.",
+        "It's important to remember that this date is an estimate. Only about 5% of babies are born on their exact due date. This tool provides a reliable guideline to help you and your healthcare provider plan for your baby's arrival."
+      ],
+      "list": [
+        "LMP Method: The standard calculation based on a 28-day cycle.",
+        "Conception Date Method: More precise if you know the exact date of conception.",
+        "IVF Method: Tailored for IVF pregnancies, based on the embryo transfer date and age."
+      ]
+    },
+    {
+      "heading": "Understanding Your Pregnancy Timeline: Trimesters and Milestones",
+      "paragraphs": [
+        "A full-term pregnancy is divided into three trimesters, each with unique fetal development milestones. Our calculator not only provides a due date but also helps you understand where you are in this journey by calculating your current gestational age.",
+        "The First Trimester (Weeks 1-13) is a critical period of development for your baby's organs. The Second Trimester (Weeks 14-27) is often called the 'golden period' as many early pregnancy symptoms subside, and you may begin to feel your baby move. The Third Trimester (Weeks 28-40+) is focused on rapid growth and weight gain for the baby as they prepare for birth. Regular prenatal care throughout these stages is essential for a healthy pregnancy."
+      ]
+    }
+  ],
   "seoOvulationTitle": "Free Ovulation & Fertile Window Calculator",
   "seoOvulationDescription": "Estimate your ovulation date and most fertile days based on your last menstrual period and cycle length. Plan your pregnancy with our accurate calculator.",
   "ovulationTitle": "Ovulation Calculator",
@@ -143,7 +163,29 @@
   "resultFertileWindow": "Most Fertile Window",
   "fertileWindowDescription": "From {startDate} to {endDate}",
   "resultNextPeriod": "Estimated Next Period Date",
-  "seoOvulationSections": [],
+  "seoOvulationSections": [
+    {
+      "heading": "How to Predict Your Most Fertile Days",
+      "paragraphs": [
+        "Our Ovulation Calculator is a simple tool designed to help you predict your most fertile days of the month. By entering the first day of your last menstrual period and your average cycle length, the calculator estimates your probable ovulation date. Ovulation is the release of an egg from your ovary, which typically happens about 14 days before your next period begins.",
+        "Your 'fertile window' includes the day of ovulation and the five days leading up to it. This is because sperm can survive in the female reproductive tract for up to five days. Having intercourse during this window significantly increases your chances of conception."
+      ],
+      "list": [
+        "Input Your Data: Start with your last period date and cycle length.",
+        "Get Your Estimate: The calculator identifies your key fertile days.",
+        "Plan Accordingly: Use this information to help with your family planning goals."
+      ]
+    },
+    {
+      "heading": "Beyond the Calculator: Other Signs of Ovulation",
+      "paragraphs": [
+        "While an ovulation calculator is a great starting point, your body also provides clues that ovulation is approaching. Combining the calculator's estimate with these physical signs can give you a more accurate picture of your fertile window. These signs include:",
+        "Changes in Cervical Mucus: As you approach ovulation, your cervical mucus may become clearer, thinner, and more slippery, resembling the consistency of egg whites.",
+        "Basal Body Temperature (BBT): Tracking your BBT daily can show a slight but sustained temperature increase after ovulation has occurred.",
+        "Ovulation Predictor Kits (OPKs): These over-the-counter kits detect the surge in luteinizing hormone (LH) that happens 24-36 hours before ovulation."
+      ]
+    }
+  ],
   "seoMenstrualTitle": "Menstrual Cycle & Period Calculator",
   "seoMenstrualDescription": "Track your menstrual cycle and predict your next period dates with our simple and free online calculator.",
   "menstrualCycleTitle": "Menstrual Cycle Calculator",
@@ -152,7 +194,27 @@
   "menstrualCycleHeading": "Your Next Period Dates",
   "resultNextPeriod1": "Next Estimated Period",
   "resultNextPeriod2": "Following Estimated Period",
-  "seoMenstrualSections": [],
+  "seoMenstrualSections": [
+    {
+      "heading": "How Our Period Calculator Works",
+      "paragraphs": [
+        "Our Menstrual Cycle Calculator helps you predict the start date of your next period with just two pieces of information: the first day of your last period and the average length of your menstrual cycle. By adding your average cycle length to your last period's start date, the tool provides an estimated date for your next two periods.",
+        "Tracking your cycle is about more than just convenience; it's a key indicator of your overall health. Regular, predictable cycles often signify that your body's hormones are functioning correctly."
+      ],
+      "list": [
+        "Simple Inputs: Enter your last period start date and cycle length.",
+        "Instant Predictions: Immediately see estimated dates for your next periods.",
+        "Plan Ahead: Use the predictions to plan for events, vacations, or simply be prepared."
+      ]
+    },
+    {
+      "heading": "Understanding Your Menstrual Cycle",
+      "paragraphs": [
+        "A menstrual cycle is counted from the first day of one period to the first day of the next. While the average cycle is 28 days long, cycles ranging from 21 to 35 days are also considered normal for adults. Many factors can influence the length and regularity of your cycle, including stress, diet, exercise, and certain health conditions.",
+        "If your cycles are consistently irregular, much shorter or longer than the normal range, or if you experience severe pain, it's a good idea to consult a healthcare provider. Our calculator works best for those with relatively regular cycles but can still provide a useful estimate for others."
+      ]
+    }
+  ],
   "seoCalorieTitle": "Free Calorie Calculator - TDEE & BMR",
   "seoCalorieDescription": "Calculate your daily calorie needs for weight loss, maintenance, or gain. Find your BMR and TDEE, and get personalized macronutrient targets.",
   "calorieTitle": "Calorie Calculator",
