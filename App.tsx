@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { LanguageCode } from './types';
 import AgeCalculatorPage from './pages/AgeCalculatorPage';
 import HomePage from './pages/HomePage';
@@ -15,7 +15,7 @@ import CalorieCalculatorPage from './pages/CalorieCalculatorPage';
 const App: React.FC = () => {
   return (
     <div className="font-sans">
-       <BrowserRouter>
+       <HashRouter>
         <Routes>
           <Route path="/:lang" element={<Layout />}>
             <Route index element={<HomePage />} />
@@ -30,7 +30,7 @@ const App: React.FC = () => {
           </Route>
           <Route path="*" element={<Navigate to={`/${LanguageCode.AR}`} replace />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 };
